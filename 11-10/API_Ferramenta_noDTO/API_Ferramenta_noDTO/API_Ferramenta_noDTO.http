@@ -1,0 +1,6 @@
+@API_Ferramenta_noDTO_HostAddress = http://localhost:5172
+
+GET {{API_Ferramenta_noDTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

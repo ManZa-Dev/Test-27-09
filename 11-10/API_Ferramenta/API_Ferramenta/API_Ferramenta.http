@@ -1,0 +1,6 @@
+@API_Ferramenta_HostAddress = http://localhost:5108
+
+GET {{API_Ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|c:\\users\\utente\\desktop\\api_ferramenta\\api_ferramenta\\models\\api_ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|solutionrelative:api_ferramenta\\models\\api_ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|c:\\users\\utente\\desktop\\api_ferramenta\\api_ferramenta\\api_ferramenta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|solutionrelative:api_ferramenta\\api_ferramenta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|c:\\users\\utente\\desktop\\api_ferramenta\\api_ferramenta\\api_ferramenta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{983B1173-FD06-4903-8184-A49604FE6AF4}|API_Ferramenta\\API_Ferramenta.csproj|solutionrelative:api_ferramenta\\api_ferramenta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APi_FerramentaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\Models\\APi_FerramentaContext.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta\\Models\\APi_FerramentaContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\Models\\APi_FerramentaContext.cs",
+              "RelativeToolTip": "API_Ferramenta\\Models\\APi_FerramentaContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:52:09.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API_Ferramenta",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\API_Ferramenta.csproj",
+              "RelativeDocumentMoniker": "API_Ferramenta\\API_Ferramenta.csproj",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\API_Ferramenta.csproj*",
+              "RelativeToolTip": "API_Ferramenta\\API_Ferramenta.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T07:49:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API_Ferramenta",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\API_Ferramenta.csproj",
+              "RelativeDocumentMoniker": "API_Ferramenta\\API_Ferramenta.csproj",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta\\API_Ferramenta\\API_Ferramenta.csproj",
+              "RelativeToolTip": "API_Ferramenta\\API_Ferramenta.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T07:47:59.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

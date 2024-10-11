@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\model\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\model\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|c:\\users\\utente\\desktop\\api_ferramenta_nodto\\api_ferramenta_nodto\\model\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB15F29-D5E2-4599-843D-4C249311723B}|API_Ferramenta_noDTO\\API_Ferramenta_noDTO.csproj|solutionrelative:api_ferramenta_nodto\\model\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Repos\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\Repos\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Repos\\RepartoRepo.cs",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\Repos\\RepartoRepo.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwF8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:21:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\Controllers\\RepartoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:02:58.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Program.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Program.cs",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:59:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\appsettings.json",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T14:58:45.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Model\\Reparto.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\Model\\Reparto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Model\\Reparto.cs",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\Model\\Reparto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:58:18.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Model\\Prodotto.cs",
+              "RelativeDocumentMoniker": "API_Ferramenta_noDTO\\Model\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\API_Ferramenta_noDTO\\API_Ferramenta_noDTO\\Model\\Prodotto.cs",
+              "RelativeToolTip": "API_Ferramenta_noDTO\\Model\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:57:49.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

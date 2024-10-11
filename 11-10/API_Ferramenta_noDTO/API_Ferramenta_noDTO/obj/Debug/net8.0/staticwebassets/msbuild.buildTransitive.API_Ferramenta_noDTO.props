@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Ferramenta_noDTO.props" />
+</Project>

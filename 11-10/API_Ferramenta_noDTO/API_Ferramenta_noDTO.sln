@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Ferramenta_noDTO", "API_Ferramenta_noDTO\API_Ferramenta_noDTO.csproj", "{ADB15F29-D5E2-4599-843D-4C249311723B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB15F29-D5E2-4599-843D-4C249311723B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB15F29-D5E2-4599-843D-4C249311723B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB15F29-D5E2-4599-843D-4C249311723B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB15F29-D5E2-4599-843D-4C249311723B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18919B8-4257-4195-8ED6-E9A4B6FE953E}
+	EndGlobalSection
+EndGlobal

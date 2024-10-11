@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "API_Ferramenta_test.Controllers.RepartoController",
+    "Method": "FindAll",
+    "RelativePath": "api/reparti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[API_Ferramenta_test.Models.Reparto, API_Ferramenta_noDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Ferramenta_test.Controllers.RepartoController",
+    "Method": "FindByCod",
+    "RelativePath": "api/reparti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Ferramenta_test.Models.Reparto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Ferramenta_test.Controllers.RepartoController",
+    "Method": "UpdRepa",
+    "RelativePath": "api/reparti/aggiornamento",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oRDTO",
+        "Type": "API_Ferramenta_test.Models.Reparto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Ferramenta_test.Controllers.RepartoController",
+    "Method": "CreRepa",
+    "RelativePath": "api/reparti/creazione",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oRep",
+        "Type": "API_Ferramenta_test.Models.Reparto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Ferramenta_test.Controllers.RepartoController",
+    "Method": "DelByCod",
+    "RelativePath": "api/reparti/eliminazione",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCod",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
